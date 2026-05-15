@@ -1,1 +1,1 @@
-Em's new repo
+An interactive, computational mathematics project exploring the Euclidean Algorithm and its relevance to lattice structure, wave interference, and oscillation nature.
